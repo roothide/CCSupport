@@ -2,6 +2,7 @@
 
 #define DefaultModuleConfigurationPath @"/var/mobile/Library/ControlCenter/ModuleConfiguration.plist"
 #define CCSupportModuleConfigurationPath jbroot(@"/var/mobile/Library/ControlCenter/ModuleConfiguration_CCSupport.plist")
+#define CCSupportControlsIconStatePath jbroot(@"/var/mobile/Library/ControlCenter/ControlsIconState_CCSupport.plist")
 #define DefaultModuleOrderPath @"/System/Library/PrivateFrameworks/ControlCenterServices.framework/DefaultModuleOrder~%@.plist"
 
 #define CCSupportBundlePath jbroot(@"/Library/Application Support/CCSupport")

@@ -4,10 +4,12 @@ Depends: mobilesubstrate, firmware (>=11.0)
 Provides: com.ioscreatix.silo
 Replaces: com.ioscreatix.silo
 Conflicts: com.ioscreatix.silo
-Version: 1.3.13-2
+Version: 1.3.13.1
 Architecture: iphoneos-arm
 Description: Support tweak for CC modules!
-Maintainer: opa334
+Maintainer: ichitaso <willfeeltips@gmail.com>
 Author: opa334
 Section: Tweaks
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Depiction: https://cydia.ichitaso.com/depiction/ccsupport.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/ccsupport.json
+Icon: https://cydia.ichitaso.com/depiction/ccsupport/icon.png
